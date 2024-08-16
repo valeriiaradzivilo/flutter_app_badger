@@ -1,4 +1,6 @@
-# Flutter App Badger plugin
+# Flutter App Badger plugin FORK
+
+THIS IS A FORK FOR THE PACKAGE TO BE COMPATIBLE
 
 [![Pub](https://img.shields.io/pub/v/flutter_app_badger.svg)](https://pub.dartlang.org/packages/flutter_app_badger)
 
